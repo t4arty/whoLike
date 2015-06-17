@@ -1,1 +1,1 @@
-omg this is readme :D
+Application for vk.com on javascript. wanna see who "like" post? other statistic data.
